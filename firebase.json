@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "Earthquake_Challenge",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
